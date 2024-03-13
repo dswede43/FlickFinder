@@ -16,3 +16,6 @@ Two data files are required to run the app:
 ## Installation
 ### Docker
 A docker image of this app can also be pulled from my Docker Hub [repository](https://hub.docker.com/r/dswede43/flickfinder).
+
+#### Example
+A running instance of the app can be found [here](https://flickfinder.stratz.me).
